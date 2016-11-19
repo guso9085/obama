@@ -5,6 +5,10 @@ html {
     height: 100%;
 }
 
+.intro {
+    width: 420px;
+}
+
 header {
     margin: auto;
     width: 100%;
