@@ -1,0 +1,13 @@
+html {
+		background-image: url("../stardust_@2X.png");
+		background-attachment:fixed;
+    height: 100%;
+}
+
+.output {
+    height: 50px;
+    width: 50 px;
+    border: 4px solid #e67e22;
+    background-color: #FFFFFF;
+
+}
