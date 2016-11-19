@@ -14,17 +14,21 @@ html {
     margin: 40px auto 10px auto;
 }
 
+#buttonT {
+    margin: auto;
+    font-size: 30px;
+}
+
+a{
+	text-decoration: none;
+	color:#7f8c8d;
+}
+
+
 .output {
     height: 50px;
     width: 100%;
     border: 4px solid #e67e22;
     margin: auto;
     background-color: #FFFFFF;
-}
-
-h1 {
-    margin: auto;
-    font-size: 30px;
-
-
 }
