@@ -6,6 +6,10 @@ img {
     margin: 0px auto;
 }
 
+#particles-js {
+    position: fixed;
+}
+
 html {
 		background-image: url("../restaurant.png");
 		background-attachment:fixed;
