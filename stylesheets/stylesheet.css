@@ -62,7 +62,6 @@ a{
 
 .talk {
     margin: 40px auto 40px auto;
-    height: 200px;
     text-align: center;
     width: 450px;
     color: #FFFFFF;
@@ -71,9 +70,12 @@ a{
 }
 
 .loading {
-  display:none;
+  display:none !important;
 }
 
 .loading.show {
-  display: block;
+  display: block !important;
+  position: fixed;
+  left: 0;
+  right: 0;
 }
