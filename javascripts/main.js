@@ -4,7 +4,7 @@ $(document).ready(function() {
     $('.button').html("<img src='loading.gif'/>");
     $.get('http://talk-to-obama.herokuapp.com/chat')
       .then(function(d){
-        $('.button').html("<h1 id="buttonT"> SAUCE ME </h1>");
+        $('.button').html("<h1 id='buttonT'> SAUCE ME </h1>");
         $('.talk').text('"' + d.content + '"');
       })
   });
