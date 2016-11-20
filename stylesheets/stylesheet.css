@@ -1,4 +1,10 @@
 
+img {
+    text-align: center;
+    height: 100%;
+
+}
+
 html {
 		background-image: url("../restaurant.png");
 		background-attachment:fixed;
