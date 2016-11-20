@@ -10,6 +10,14 @@ img {
     position: fixed;
 }
 
+* {
+  z-index: 5;
+}
+
+#particles-js {
+  z-index: -1;
+}
+
 html {
 		background-image: url("../restaurant.png");
 		background-attachment:fixed;
