@@ -71,6 +71,7 @@ a{
 
 .loading {
   display:none !important;
+  text-align: center;
   position: fixed;
   left: 0;
   right: 0;
@@ -78,6 +79,7 @@ a{
 
 .loading.show {
   display: block !important;
+  text-align: center;
   position: fixed;
   left: 0;
   right: 0;
