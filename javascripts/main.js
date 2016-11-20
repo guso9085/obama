@@ -1,10 +1,10 @@
 $(document).ready(function() {
   $('.button').click(function(e) {
     e.preventDefault();
-    $('.loading').addClass("show");
+    $('.button').html("<img src='loading.gif'/>");
     $.get('http://talk-to-obama.herokuapp.com/chat')
       .then(function(d){
-        $('.loading').removeClass("show");
+        $('.button').text("SAUCE ME");
         $('.talk').text('"' + d.content + '"');
       })
   });
