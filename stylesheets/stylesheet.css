@@ -2,7 +2,8 @@
 img {
     text-align: center;
     height: 100%;
-
+    display: block;
+    margin: 0px auto;
 }
 
 html {
