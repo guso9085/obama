@@ -118,7 +118,13 @@ a{
 #return {
     display: inline-block;
     background-color: rgba(247,249,252, 0.4);
-    height: 50px;
+    height: 34px;
     width: 100px;
+    margin-left: -8px;
     text-align: center;
+}
+
+#return p {
+    position: relative;
+    bottom: 10px;
 }
