@@ -58,6 +58,17 @@ header {
 
 }
 
+.button:focus {
+    height: 75px;
+    width: 400px;
+    border-radius: 2px;
+    border: 3px solid #bdc3c7;
+    margin: 40px auto 10px auto;
+    background-color: rgba(247,249,252, 0.5);
+    transition: background-color .5s, box-shadow .2s;
+
+}
+
 #buttonT {
     margin: 15px;
     text-align: center;
