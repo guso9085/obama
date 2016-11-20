@@ -59,3 +59,11 @@ a{
     margin-right: -8px;
     background-color: rgba(247,249,252, 0.4);
 }
+
+.talk {
+    height: 200px;
+    width: 200px;
+    background-color: #FFFFFF;
+
+
+}
