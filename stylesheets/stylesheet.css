@@ -58,7 +58,7 @@ header {
 
 }
 
-.button:focus {
+.button:active {
     height: 75px;
     width: 400px;
     border-radius: 2px;
