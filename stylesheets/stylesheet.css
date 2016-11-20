@@ -62,9 +62,9 @@ a{
 
 .talk {
     height: 200px;
-    width: 200px;
+    width: 400px;
     margin: auto;
-    color:#7f8c8d;
+    color:#FFFFFF;
     font-size: 30px;
-
+    font-family: Raleway;
 }
