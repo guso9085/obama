@@ -116,9 +116,9 @@ a{
 }
 
 #return {
-  display: inline-block;
-  background-color: rgba(247,249,252, 0.4);
-  height: 100px;
-  width: 100px;
-
+    display: inline-block;
+    background-color: rgba(247,249,252, 0.4);
+    height: 50px;
+    width: 100px;
+    text-align: center;
 }
